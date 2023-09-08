@@ -47,3 +47,6 @@ function parse_git_dirty {
 
 export PS1="\[\e[32m\]\`parse_git_branch\`\[\e[m\] \[\e[34m\]\W\[\e[m\] \[\e[35m\]❯\[\e[m\] "
 export PATH=$PATH:/home/sidlais/.spicetify
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
