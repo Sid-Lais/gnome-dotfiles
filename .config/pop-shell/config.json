@@ -53,6 +53,15 @@
     {
       "class": "gnome-terminal-server",
       "title": "About GNOME Terminal"
+    },
+    {
+      "class": "protonvpn"
+    },
+    {
+      "class": "kitty"
+    },
+    {
+      "class": "gnome-terminal-server"
     }
   ],
   "skiptaskbarhidden": [],
