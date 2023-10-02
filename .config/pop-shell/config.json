@@ -62,6 +62,9 @@
     },
     {
       "class": "gnome-terminal-server"
+    },
+    {
+      "class": "obsidian"
     }
   ],
   "skiptaskbarhidden": [],
