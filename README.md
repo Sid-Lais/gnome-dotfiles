@@ -142,7 +142,7 @@ sudo cp stylesheet.css /usr/local/share/gnome-shell/extensions/dash-to-dock@micx
 <details>
 <summary><h3><samp>⚡ Terminal Apps</samp></h3></summary>
 
-- [neofetch](https://github.com/dylanaraps/neofetch) - fetch system info
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - fetch system info
 - [cava](https://github.com/karlstav/cava) - audio visualizer
 - [tty-clock](https://github.com/xorg62/tty-clock)
 - [bottom](https://github.com/ClementTsang/bottom) / [htop](https://github.com/htop-dev/htop) - system monitor
